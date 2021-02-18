@@ -1,6 +1,6 @@
 Package: quanteda.textplots
 Title: Plots for the Quantitative Analysis of Textual Data
-Version: 0.90
+Version: 0.92
 Authors@R: 
     c( 
     person("Kenneth", "Benoit", email = "kbenoit@lse.ac.uk", role = c("cre", "aut", "cph"), comment = c(ORCID = "0000-0002-0797-564X")), 
@@ -17,17 +17,19 @@ Description: Plotting functions for visualising textual data.  Extends 'quanteda
    and models fit to textual data. Plot types include word clouds, lexical dispersion plots, 
    scaling plots, network visualisations, and word 'keyness' plots.
 License: GPL-3
-Imports: quanteda, quanteda.textmodels, quanteda.textstats, data.table,
-        extrafont, ggplot2, ggrepel, grid, sna, igraph, Matrix,
-        methods, network, RColorBrewer, Rcpp (>= 0.12.12), stringi
+Imports: quanteda, data.table, extrafont, ggplot2, ggrepel, grid, sna,
+        igraph, Matrix, methods, network, RColorBrewer, Rcpp (>=
+        0.12.12), stringi
 LinkingTo: Rcpp
-Suggests: rmarkdown, spelling, testthat, knitr
+Suggests: knitr, quanteda.textmodels, quanteda.textstats, rmarkdown,
+        spelling, testthat, wordcloud
 Encoding: UTF-8
+BugReports: https://github.com/quanteda/quanteda.textplots/issues
 LazyData: true
 Language: en-GB
 RoxygenNote: 7.1.1
 NeedsCompilation: yes
-Packaged: 2020-12-11 08:21:12 UTC; kbenoit
+Packaged: 2021-02-18 06:33:54 UTC; kbenoit
 Author: Kenneth Benoit [cre, aut, cph]
     (<https://orcid.org/0000-0002-0797-564X>),
   Kohei Watanabe [aut] (<https://orcid.org/0000-0001-6519-5265>),
@@ -39,4 +41,4 @@ Author: Kenneth Benoit [cre, aut, cph]
   European Research Council [fnd] (ERC-2011-StG 283794-QUANTESS)
 Maintainer: Kenneth Benoit <kbenoit@lse.ac.uk>
 Repository: CRAN
-Date/Publication: 2020-12-14 11:20:02 UTC
+Date/Publication: 2021-02-18 06:50:03 UTC
