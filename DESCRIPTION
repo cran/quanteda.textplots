@@ -1,6 +1,6 @@
 Package: quanteda.textplots
 Title: Plots for the Quantitative Analysis of Textual Data
-Version: 0.94
+Version: 0.94.1
 Authors@R: 
     c( 
     person("Kenneth", "Benoit", email = "kbenoit@lse.ac.uk", role = c("cre", "aut", "cph"), comment = c(ORCID = "0000-0002-0797-564X")), 
@@ -25,11 +25,10 @@ Suggests: knitr, quanteda.textmodels, quanteda.textstats, rmarkdown,
         spelling, testthat, wordcloud
 Encoding: UTF-8
 BugReports: https://github.com/quanteda/quanteda.textplots/issues
-LazyData: true
 Language: en-GB
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 NeedsCompilation: yes
-Packaged: 2021-03-30 08:22:09 UTC; kbenoit
+Packaged: 2022-03-23 09:39:58 UTC; kbenoit
 Author: Kenneth Benoit [cre, aut, cph]
     (<https://orcid.org/0000-0002-0797-564X>),
   Kohei Watanabe [aut] (<https://orcid.org/0000-0001-6519-5265>),
@@ -41,4 +40,4 @@ Author: Kenneth Benoit [cre, aut, cph]
   European Research Council [fnd] (ERC-2011-StG 283794-QUANTESS)
 Maintainer: Kenneth Benoit <kbenoit@lse.ac.uk>
 Repository: CRAN
-Date/Publication: 2021-04-06 07:30:05 UTC
+Date/Publication: 2022-03-23 10:00:02 UTC
