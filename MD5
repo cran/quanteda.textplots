@@ -1,6 +1,6 @@
-7eb4dd418d4a381b0e0a94603b20e0ac *DESCRIPTION
+00f26552e59e849d5fca9274de268791 *DESCRIPTION
 76c0cc3c3c95082be23d66133a0ecb01 *NAMESPACE
-e86f2aae4028c0e93fddb78762c87755 *NEWS.md
+0402ef7dd361d062f467fc65f42d7884 *NEWS.md
 7e25cee0af6940f236c193d5d6f2bbba *R/RcppExports.R
 423fc97e1b2670412695cb15192b4498 *R/quanteda.textplots-package.R
 ca1ca3a63920f5270f66c779d569ceb1 *R/textplot_keyness.R
@@ -8,13 +8,13 @@ ca1ca3a63920f5270f66c779d569ceb1 *R/textplot_keyness.R
 0ada81774d916d1b3de6f21f12750f0f *R/textplot_scale1d.R
 a64e176cde7f54cb6565a79ae18024f3 *R/textplot_wordcloud.R
 c6d57180949ca056c729912ebb924908 *R/textplot_xray.R
-7c7e4d2dee1616ab6424402ae5e6a416 *R/utils.R
+1830af36e815c16dc1b04b01bd688937 *R/utils.R
 44f60e309111e4d274ac9b984ad0cc0c *README.md
 56ed661886406468d3338329c6f4c2e0 *inst/CITATION
-866772fe64137c9ed8cd20c7ac9a2807 *inst/WORDLIST
+f580e840976556843c4405f8cd798320 *inst/WORDLIST
 be994e93849786e0c3913dddf6304233 *man/as.igraph.Rd
 d412e4f5c7621170fb211238495fc79f *man/as.network.Rd
-2e520e8f402bbe32f3b7a64ea15ef489 *man/check_font.Rd
+bf65f7d8cef88a2010f2119e445bf33d *man/check_font.Rd
 58642cc7adf42832ba7bf8c464e74384 *man/quanteda.textplots-package.Rd
 261ae5bb7995f5eb5358771fb0114615 *man/textplot_keyness.Rd
 6d6f1d798ff6d22e0a9356e1088893cb *man/textplot_network.Rd
@@ -30,8 +30,8 @@ a230a9a4dc981ec9567de4a3df62c30d *man/textplot_wordcloud.Rd
 51277d6aa150ed7c9261b25fb4030839 *tests/testthat.R
 ccc0115c867fbb7b4b5b3b018973ae28 *tests/testthat/test-default-methods.R
 92058fc394acbcf3ca14121a2d01365a *tests/testthat/test-textplot_keyness.R
-2d651e4bc6432b00cc460e68766109ff *tests/testthat/test-textplot_network.R
+62192bf4a90e4450efa61689d8538898 *tests/testthat/test-textplot_network.R
 516c9db134d79e88ad221218de1a5749 *tests/testthat/test-textplot_scale1d.R
 57df4dc80f6adc6cbe1350cd8b66dfbd *tests/testthat/test-textplot_wordcloud.R
 f90175f82d9e17840a9867db1ec8650a *tests/testthat/test-textplot_xray.R
-a5871acfca08c9fce76f5679ba7c1a64 *tests/testthat/test-utils.R
+14c450de7870c1933f5f8ca03c332634 *tests/testthat/test-utils.R
